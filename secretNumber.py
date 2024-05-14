@@ -5,6 +5,7 @@ A junior magician has picked a secret number. He has hidden it in a variable nam
 
 secret_number = 777
 
+
 print(
 """
 +================================+
