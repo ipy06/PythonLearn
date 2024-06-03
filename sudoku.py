@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+This is a sudoku board validation script
+It asks the user to input the sudoku board and then it runs checks
+to determint if the board entered is valid
+"""
+
 print("Welcome to the sudoku validation program.\n")
 print("Please enter the sudoku puzzle as a 9x9 grid of numbers below row by row:")
 puzzle = []
